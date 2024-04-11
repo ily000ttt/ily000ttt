@@ -11,5 +11,8 @@
      <li><a href="https://ily000ttt.github.io/Github-Users-Search/">Click here!</a></li>
   </ul>
 </details>
+### 📈 Codewars:
+<img src='https://www.codewars.com/users/ily000ttt/badges/large'>
+
 
 
