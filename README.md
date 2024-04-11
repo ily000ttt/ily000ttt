@@ -15,7 +15,7 @@
   <ul>
      <li><a href="https://ily000ttt.github.io/Virtual-Keyboard/">Click here!</a></li>
   </ul>
-</details>
+</details>;
 ### 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
