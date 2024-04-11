@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @ily000ttt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻   My projects:
 
-<!---
-ily000ttt/ily000ttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details><summary><b>Rock-Paper-Scissors</b></summary>
+  <ul>
+     <li><a href="https://ily000ttt.github.io/Rock-Paper-Scissor/">Click here!</a></li>
+  </ul>
+</details>
+<details><summary><b>Github-Users-Search</b></summary>
+  <ul>
+     <li><a href="https://ily000ttt.github.io/Github-Users-Search/">Click here!</a></li>
+  </ul>
+</details>
+
+
